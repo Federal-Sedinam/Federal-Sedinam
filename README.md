@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/federal_sedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="federal_sedinam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/federal-sedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federal-sedinam" height="30" width="40" /></a>
+<a href="linkedin.com/in/federal-sedinam-10397b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federal-sedinam" height="30" width="40" /></a>
 <a href="https://instagram.com/federal_sedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federal_sedinam" height="30" width="40" /></a>
 </p>
 
