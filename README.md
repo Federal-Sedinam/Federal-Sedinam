@@ -21,8 +21,7 @@
     </ul>
     <hr>
     <h2>Skills💻</h2>
-    <table cellspacing = "10">
-       
+    <table cellspacing = "10">      
         <tr>
             <td>Web Development</td>
             <td>⭐⭐⭐</td>
@@ -41,6 +40,5 @@
         </tr>
      </table>
     <hr>
-
 </body>
 </html>
