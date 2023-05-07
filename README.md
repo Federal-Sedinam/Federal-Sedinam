@@ -1,6 +1,6 @@
 <h1>Hello, I'm Federal Sedinam❤️</h1>
     <p>Computer Engineering Student</p>
-    <p>Hoping to become one of the top females in tech</p>
+    <p>I'm passionate about everything related to tech</p>
     <hr>
     <h2>About Me🤗</h2>
     <ul>
