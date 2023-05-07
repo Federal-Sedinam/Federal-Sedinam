@@ -1,14 +1,13 @@
 <h1>Hello, I'm Federal Sedinam❤️</h1>
     <p>Computer Engineering Student</p>
     <p>Hoping to become one of the top females in tech</p>
-    <p>Call me CEO when you meet me 😌🥂</p>
     <hr>
     <h2>About Me🤗</h2>
     <ul>
         <li>🌍 I live in Accra</li>
         <li>🧠 I'm currently learning web development</li>
         <li>✉️ How to reach me: <a href="https://linktr.ee/Federal_Sedinam">Federal Sedinam</a> </li>
-        <li>💃 Fun fact: I love music and pictures🥂</li>
+        <li>💃 Fun fact: I love music</li>
     </ul>
     <hr>
 
@@ -16,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/federal_sedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="federal_sedinam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/federal-sedinam-10397b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federal-sedinam" height="30" width="40" /></a>
-<a href="https://instagram.com/federal_sedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federal_sedinam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
