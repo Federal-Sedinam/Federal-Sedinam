@@ -4,7 +4,7 @@
     <hr>
     <h2>About Me🤗</h2>
     <ul>
-        <li>🌍 I live in Accra</li>
+        <li>🌍 I live in Accra - Ghana</li>
         <li>🧠 I'm currently learning web development</li>
         <li>✉️ How to reach me: <a href="https://linktr.ee/Federal_Sedinam">Federal Sedinam</a> </li>
         <li>💃 Fun fact: I love music</li>
