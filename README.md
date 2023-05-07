@@ -46,8 +46,7 @@
             <td>Python</td>
             <td>⭐⭐⭐</td>
         </tr>
-           
-    </table>
+     </table>
     <hr>
 
 </body>
