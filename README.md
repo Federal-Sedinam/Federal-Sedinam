@@ -22,14 +22,7 @@
     <hr>
     <h2>Skills💻</h2>
     <table cellspacing = "10">
-        <tr>
-            <td>Public Speaking</td>
-            <td>⭐⭐⭐⭐</td>
-        </tr>
-        <tr>
-            <td>Team Work</td>
-            <td>⭐⭐⭐⭐</td>
-        </tr>
+       
         <tr>
             <td>Web Development</td>
             <td>⭐⭐⭐</td>
