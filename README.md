@@ -21,43 +21,32 @@
     </ul>
     <hr>
     <h2>Skills💻</h2>
-    <table>
+    <table cellspacing = "10">
         <tr>
-            <td>
-                <table cellspacing = "10">
-                    <tr>
-                        <td>Public Speaking</td>
-                        <td>⭐⭐⭐⭐</td>
-                    </tr>
-                    <tr>
-                        <td>Team Work</td>
-                        <td>⭐⭐⭐⭐</td>
-                    </tr>
-                    <tr>
-                        <td>Web Development</td>
-                        <td>⭐⭐⭐</td>
-                    </tr>                                 
-                       
-                </table>
-            </td>
-            <td>
-                <table cellspacing = "10">                   
-                    <tr>
-                        <td>Microsoft Office Word</td>
-                        <td>⭐⭐⭐</td>
-                    </tr>
-                    <tr>
-                        <td>Microsft Office Excel</td>
-                        <td>⭐⭐⭐</td>
-                    </tr>
-                    <tr>
-                        <td>Python</td>
-                        <td>⭐⭐⭐</td>
-                    </tr>
-                       
-                </table>
-            </td>
+            <td>Public Speaking</td>
+            <td>⭐⭐⭐⭐</td>
         </tr>
+        <tr>
+            <td>Team Work</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Web Development</td>
+            <td>⭐⭐⭐</td>
+        </tr>              
+        <tr>
+            <td>Microsoft Office Word</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Microsft Office Excel</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+           
     </table>
     <hr>
 
