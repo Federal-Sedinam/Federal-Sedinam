@@ -6,7 +6,7 @@
     <ul>
         <li>🌍 I live in Accra - Ghana</li>
         <li>🧠 I'm currently learning web development</li>
-        <li>✉️ How to reach me: <a href="hoenyedzifederal@gmail.com"></a> </li>
+        <li>✉️ How to reach me: <a href="mailto:hoenyedzifederal@gmail.com">hoenyedzifederal@gmail.com</a> </li>
         <li>💃 Fun fact: I love music</li>
     </ul>
     <hr>
